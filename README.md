@@ -1,2 +1,1 @@
-# docs-spotify
-Spotify Engineering Culture (Software Engineering) 
+# Spotify Engineering Culture (Software Engineering)

@@ -1,0 +1,7 @@
+EN-US
+https://engineering.atspotify.com/2014/03/27/spotify-engineering-culture-part-1/
+https://engineering.atspotify.com/2014/09/20/spotify-engineering-culture-part-2/
+
+PT-BR
+https://www.infoq.com/br/articles/spotify-escalando-agile/
+https://youtu.be/NoGhC1LaaAE
